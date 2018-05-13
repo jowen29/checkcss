@@ -1,0 +1,2 @@
+# checkcss
+make test
